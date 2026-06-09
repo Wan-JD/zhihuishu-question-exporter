@@ -54,6 +54,10 @@ node scripts\collect-course-bank.js --start-url "https://ai-smart-course-student
 - 本地采集器只连接你本机已登录的浏览器，不内置账号密码。
 - 仓库不应提交个人题库导出、登录缓存、浏览器 profile 或课程私有参数。
 
+## 支持作者
+
+如果这个脚本帮你省了复习整理时间，欢迎通过 [爱发电](https://ifdian.net/a/jd0512) 支持作者继续维护。
+
 ## 开源协议
 
 [MIT](./LICENSE) · Copyright Wan-JD

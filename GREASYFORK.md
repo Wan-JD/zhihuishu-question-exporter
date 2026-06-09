@@ -28,6 +28,10 @@
 
 脚本不上传题目、账号信息或导出内容；所有收录数据均保存在本机浏览器。
 
+## 支持作者
+
+如果这个脚本对你有帮助，欢迎通过 [爱发电](https://ifdian.net/a/jd0512) 支持作者继续维护。
+
 ## 开源
 
 源码：https://github.com/Wan-JD/zhihuishu-question-exporter
