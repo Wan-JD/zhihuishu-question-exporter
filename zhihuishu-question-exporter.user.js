@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         智慧树题库导出助手
 // @namespace    https://ai-smart-course-student-pro.zhihuishu.com/
-// @version      0.9.1
+// @version      0.9.2
 // @description  从智慧树答题记录/解析页收录题目，清洗乱码与干扰文本，并导出 Markdown 复习文档。
+// @author       Wan-JD
+// @license      MIT
 // @homepageURL  https://github.com/Wan-JD/zhihuishu-question-exporter
 // @supportURL   https://ifdian.net/a/jd0512
 // @match        https://ai-smart-course-student-pro.zhihuishu.com/examPreview/*

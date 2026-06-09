@@ -1,6 +1,6 @@
 {
   "name": "zhihuishu-question-exporter",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "private": true,
   "description": "Tampermonkey script and optional Playwright collector for exporting Zhihuishu review questions.",
   "scripts": {
