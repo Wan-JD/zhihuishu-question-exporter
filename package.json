@@ -1,0 +1,13 @@
+{
+  "name": "zhihuishu-question-exporter",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Tampermonkey script and optional Playwright collector for exporting Zhihuishu review questions.",
+  "scripts": {
+    "check": "node --check zhihuishu-question-exporter.user.js && node --check scripts/collect-course-bank.js",
+    "collect": "node scripts/collect-course-bank.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}

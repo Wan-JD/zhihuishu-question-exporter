@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+outputs/
+scripts/captures/
+*.raw.json
+*.checkpoint.json
+*.md.bak
+*.user.js.bak
+.env
+.env.*
+edge-profile/
+edge-cdp-profile/
